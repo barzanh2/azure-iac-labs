@@ -1,0 +1,4 @@
+environment            = "prod"
+vnet_address_space     = ["10.20.0.0/16"]
+workload_subnet_prefix = "10.20.1.0/24"
+mgmt_subnet_prefix     = "10.20.250.0/24"
